@@ -1,0 +1,28 @@
+"Geographic code","Geographic name","Incompletely enumerated Indian reserves and Indian settlements, 2011","Population, 2011","Population, 2006","2006 adjusted population flag","Incompletely enumerated Indian reserves and Indian settlements, 2006","Population, % change","Total private dwellings, 2011","Private dwellings occupied by usual residents, 2011","Land area in square kilometres, 2011","Population density per square kilometre, 2011"
+"01","Canada",T,33476688,31612897,F,T,5.9,14569633,13320614,8965121.4248,3.7341
+"35","Ontario",T,12851821,12160282,F,T,5.7,5308785,4887508,908607.6714,14.1445
+"24","Quebec",T,7903001,7546131,F,T,4.7,3685926,3395343,1356547.0210,5.8258
+"59","British Columbia",T,4400057,4113487,F,T,7.0,1945365,1764637,922509.2939,4.7697
+"48","Alberta",T,3645257,3290350,F,T,10.8,1505007,1390275,640081.8739,5.6950
+"46","Manitoba",T,1208268,1148401,F,F,5.2,512689,466138,552329.5197,2.1876
+"47","Saskatchewan",T,1033381,968157,F,T,6.7,460512,409645,588239.2078,1.7567
+"12","Nova Scotia",F,921727,913462,F,F,0.9,442155,390279,52939.4351,17.4110
+"13","New Brunswick",F,751171,729997,F,F,2.9,348465,314007,71377.1843,10.5240
+"10","Newfoundland and Labrador",F,514536,505469,F,F,1.8,250275,208842,370510.7593,1.3887
+"11","Prince Edward Island",F,140204,135851,F,F,3.2,66943,56462,5685.7297,24.6589
+"61","Northwest Territories",F,41462,41464,F,F,0.0,17175,14700,1143793.4715,0.0362
+"60","Yukon",F,33897,30372,F,F,11.6,16259,14117,474712.6409,0.0714
+"62","Nunavut",F,31906,29474,F,F,8.3,10077,8661,1877787.6163,0.0170
+
+Note:
+"Incompletely enumerated Indian reserves and Indian settlements, 2011","T = excludes census data for one or more incompletely enumerated Indian reserves or Indian settlements."
+"Incompletely enumerated Indian reserves and Indian settlements, 2006","T = excludes census data for one or more incompletely enumerated Indian reserves or Indian settlements."
+"2006 adjusted population flag","T = adjusted figure due to boundary change."
+"2006 adjusted total private dwellings flag","T = adjusted figure due to boundary change."
+"2006 adjusted private dwellings occupied by usual residents flag","T = adjusted figure due to boundary change."
+"For further information, refer to: http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/Notes-eng.cfm."
+
+"Source: Statistics Canada, 2011 Census of Population."
+"How to cite: Statistics Canada. 2012. Population and dwelling counts, for Canada, provinces and territories, 2011 and 2006 censuses (table). Population and Dwelling Count Highlight Tables. 2011 Census."
+"Statistics Canada Catalogue no. 98-310-XWE2011002. Released February 8, 2012."
+"http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/File.cfm?T=101&SR=1&RPP=25&PR=0&CMA=0&S=0&O=D&LANG=Eng&OFT=CSV (accessed August 15, 2021)"
